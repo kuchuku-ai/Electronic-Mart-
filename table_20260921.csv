@@ -1,0 +1,5 @@
+File,Purpose,Content
+index.html,The store (what you pasted),Full code above
+404.html,Custom error page,See below
+README.md,Repo documentation,See below
+.nojekyll,Tells GitHub not to process with Jekyll,Empty file (0 bytes)
